@@ -27,10 +27,6 @@ I use LeetCode to improve my problem-solving skills
 
 Email: pranavthakur8907@gmail.com
 
-GitHub: https://github.com/pranavvv-git
-
-LinkedIn: https://www.linkedin.com/in/pranav-thakur-60a721416/
-
 ## Thanks for visiting my profile.
 
 Code. Learn. Build. Repeat.
