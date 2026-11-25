@@ -10,19 +10,9 @@ I prefer learning by actually building things rather than only following tutoria
 
 I'm focused on becoming a well-rounded software developer who can understand a problem, break it down, build a solution, and keep improving it through real-world experience.
 
-## LeetCode and Problem Solving
+## LeetCode 
 
-I use LeetCode to improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
-
-### Focus Areas
-
-- Arrays and Strings
-- Searching and Sorting
-- Recursion
-- Data Structures
-- Algorithms
-- Problem Solving
-
+I use LeetCode to improve my problem-solving skills
 [View My LeetCode Profile](https://leetcode.com/u/PRANAVTHAKUR_07/)
 
 ## Current Focus
